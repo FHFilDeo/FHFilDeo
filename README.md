@@ -44,7 +44,7 @@
 
 ## 📈 GitHub Stats
 
-![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhfildeo&show_icons=true&count_private=true&theme=great-gatsby) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fhfildeo&layout=compact&theme=great-gatsby)
+![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Floor-Flam&show_icons=true&count_private=true&theme=great-gatsby) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Floor-Flam&layout=compact&theme=great-gatsby)
 
 ---
 
