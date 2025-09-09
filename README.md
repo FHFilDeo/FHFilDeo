@@ -1,6 +1,6 @@
-# Florian van FHFilDeo - Portfolio
+# Florian from FHFilDeo - Portfolio
 
-👋 Hello! I'm Florian, better known as Floor-Flam, a passionate developer skilled in both front-end and back-end technologies. I love building beautiful, efficient, and scalable web applications.
+👋 Hello! I'm Florian, better known as [Floor-Flam](https://github.com/floor-flam), a passionate developer skilled in both front-end and back-end technologies. I love building beautiful, efficient, and scalable web applications.
 
 ---
 
